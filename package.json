@@ -1,0 +1,16 @@
+{
+  "name": "backend_app",
+  "version": "1.0.0",
+  "description": "A backend a with Chai Aur Code backend series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "chai",
+    "backend"
+  ],
+  "author": "Pranav Bagal",
+  "license": "ISC"
+}
